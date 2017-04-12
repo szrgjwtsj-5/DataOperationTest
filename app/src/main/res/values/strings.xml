@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DataOperationTest</string>
+    <string name="start_download">开始下载</string>
+    <string name="stop_download">停止下载</string>
+    <string name="load_text">下载进度 :</string>
+</resources>
